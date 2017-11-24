@@ -27,7 +27,8 @@ main {
 
 .badge-verified {
   position: absolute;
-  margin-left: -5px;
+  margin-top: -1px;
+  margin-left: -6px;
   /*vertical-align: top;*/
   /*width: 12px !important;*/
 }
