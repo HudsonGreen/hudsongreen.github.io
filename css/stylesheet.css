@@ -36,3 +36,7 @@ main {
 .badge-verified > .fa-check {
   font-size: 75%;
 }
+
+.badge-verified > .fa-certificate {
+  color: #0084b4;
+}
