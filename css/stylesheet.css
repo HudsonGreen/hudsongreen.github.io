@@ -24,3 +24,7 @@ body {
 main {
   margin-top: 50px;
 }
+
+.badge-verified > .fa-check {
+  font-size: 75%;
+}
