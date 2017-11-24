@@ -25,6 +25,11 @@ main {
   margin-top: 50px;
 }
 
+.badge-verified {
+  vertical-align: top;
+  width: 8px;
+}
+
 .badge-verified > .fa-check {
   font-size: 75%;
 }
