@@ -1,6 +1,7 @@
 nav {
   position: fixed;
   margin: 0px;
+  padding: 0px;
   width: 100%;
   background: #222;
 }
