@@ -1,7 +1,8 @@
 nav {
   position: fixed;
+  margin: 0px;
   width: 100%;
-  background: #222
+  background: #222;
 }
 
 nav > ul {
@@ -10,9 +11,13 @@ nav > ul {
   padding-bottom: 5px;
   padding-left: 15px;
   padding-right: 15px;
-  color: #fff
+  color: #fff;
 }
 
 body {
   font-family: Arial;
+}
+
+main {
+  margin-top: 50px;
 }
