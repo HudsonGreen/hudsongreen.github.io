@@ -26,8 +26,8 @@ main {
 }
 
 .badge-verified {
-  vertical-align: top;
-  width: 8px !important;
+  /*vertical-align: top;*/
+  width: 12px !important;
 }
 
 .badge-verified > .fa-check {
