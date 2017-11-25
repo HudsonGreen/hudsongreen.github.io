@@ -27,6 +27,11 @@ main {
   margin-top: 50px;
 }
 
+.article-tag-important {
+  border-radius: 5px;
+  background: orange;
+}
+
 .author-name {
   /*color: #bbb;*/
   font-weight: normal;
