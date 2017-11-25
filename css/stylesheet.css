@@ -25,6 +25,10 @@ main {
   margin-top: 50px;
 }
 
+.author-seperator {
+  opacity: 0.75;
+}
+
 .badge-verified {
   position: absolute;
   margin-top: -1px;
@@ -39,4 +43,9 @@ main {
 
 .badge-verified > .fa-certificate {
   color: #00aced;
+}
+
+.rank-admin {
+  color: lime;
+  font-weight: bold;
 }
