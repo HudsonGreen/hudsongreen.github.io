@@ -33,7 +33,7 @@ main {
   background: orange;
   color: #f00;
   border-radius: 5px;
-  font-weight: normal;
+  font-size: 75%;
 }
 
 .author-name {
