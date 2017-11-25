@@ -53,6 +53,11 @@ main {
   font-weight: normal;
 }
 
+.author-profile-name {
+  color: #ccc;
+  text-decoration: none;
+}
+
 .author-seperator {
   opacity: 0.25;
 }
