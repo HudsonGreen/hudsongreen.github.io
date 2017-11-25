@@ -28,8 +28,11 @@ main {
 }
 
 .article-tag-important {
-  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
   background: orange;
+  color: #f00;
+  border-radius: 5px;
 }
 
 .author-name {
