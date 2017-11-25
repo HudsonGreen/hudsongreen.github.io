@@ -28,7 +28,8 @@ main {
 }
 
 .author-name {
-  color: #bbb;
+  /*color: #bbb;*/
+  font-weight: normal;
 }
 
 .author-seperator {
