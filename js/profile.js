@@ -27,7 +27,7 @@
   
   for(var i = 0; i < admins.length; ++i) {
     if(admins[i] == profileID) {
-      $('.profile-name-wrapper').after('<h5 class="profile-rank rank-admin">Administrator</h5>');
+      $('.profile-name-wrapper').after('<h5 class="profile-rank rank-admin">Admin</h5>');
     }
   }
   
