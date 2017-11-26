@@ -89,3 +89,8 @@ main {
   background: #333;
   border-radius: 50%;
 }
+
+.profile-name-wrapper {
+  margin: 0px;
+  padding: 0px;
+}
