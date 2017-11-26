@@ -1,13 +1,14 @@
 (function() {
   
   var users = ["HG"];
+  var displayNames = ["Hudson Green"];
   var verifiedUsers = ["HG"];
   
-  var profileName = getUrlParameters("", "", true);
+  var profileID = getUrlParameters("", "", true);
   
   for(var i = 0; i < users.length; ++i) {
-    if(users[i] == profileName) {
-      $(".profile-name").html(profileName);
+    if(users[i] == profileID) {
+      $(".profile-name").html(displayNames[i]);
       break;
     }
   }
