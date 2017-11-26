@@ -25,7 +25,8 @@ body {
 }
 
 main {
-  margin-top: 75px;
+  margin-top: 50px;
+  padding: 15px;
 }
 
 .article-tag-news {
