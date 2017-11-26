@@ -6,8 +6,8 @@ $(function() {
   var profileName = getUrlParameters("", "", true);
   
   for(var i = 0; i < users.length; ++i) {
-    if(users[i] == profileName) {
-      alert("success");
+    if(users[i] == profileName.toString()) {
+      //alert("success");
       $(".profile-name").innerHTML = profileName;
       break;
     }
