@@ -3,6 +3,8 @@
   var users = ["HG"];
   var verifiedUsers = ["HG"];
   
+  alert("TEST");
+  
   var profileName = getUrlParameters("", "", true);
   
   alert(profileName);
