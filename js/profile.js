@@ -16,10 +16,10 @@
   for(var i = 0; i < verifiedUsers.length; ++i) {
     if(verifiedUsers[i] == profileID) {
       $('.profile-name').after(
-        '<span class="fa-stack badge-verified">' +
-					'<i class="fa fa-lg fa-certificate fa-stack-1x"></i>' +
-					'<i class="fa fa-check fa-stack-1x fa-inverse"></i>' +
-				'</span>'
+        '&nbsp;<span class="fa-stack badge-verified">' +
+	      '<i class="fa fa-lg fa-certificate fa-stack-1x"></i>' +
+	      '<i class="fa fa-check fa-stack-1x fa-inverse"></i>' +
+	'</span>'
       );
     }
   }
