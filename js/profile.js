@@ -1,4 +1,4 @@
-$(function() {
+$(document).ready(function() {
   
   var users = ["HG"];
   var verifiedUsers = ["HG"];
