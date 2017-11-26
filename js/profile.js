@@ -3,6 +3,7 @@
   var users = ['HG'];
   var displayNames = ['Hudson Green'];
   var verifiedUsers = ['HG'];
+  var admins = ['HG'];
   
   var profileID = getUrlParameters('', '', true);
   
@@ -21,6 +22,12 @@
 	      '<i class="fa fa-check fa-stack-1x fa-inverse"></i>' +
 	'</span>'
       );
+    }
+  }
+  
+  for(var i = 0; i < admins.length; ++i) {
+    if(admins[i] == profileID) {
+      $('.profile-name-wrapper').after('<h4 class="profile-rank rank-admin">Administrator</h4>');
     }
   }
   
