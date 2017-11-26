@@ -8,6 +8,7 @@ $(function() {
   for(var i = 0; i < users.length; ++i) {
     if(users[i] == profileName) {
       $(".profile-name").innerHTML() = profileName;
+      break;
     }
   }
   
