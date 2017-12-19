@@ -1,5 +1,5 @@
-# HudsonGreen.com
+# Blog.HudsonGreen.com
 
 Unfinished
 
-(c) 2017 H.K.G. - All rights reserved.
+(c) 2017 [H.K.G.](https://hudsongreen.com/) - All rights reserved.
